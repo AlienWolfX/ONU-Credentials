@@ -1,7 +1,7 @@
-# KingType FTTH Analysis
-![logo](https://github.com/AlienWolfX/KingType-analysis/blob/main/img/cover.gif)
+# KingType FTTH
+![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawdJZAuoGAkPTX1GkFDYHiKeMA1zrK-7KDw&usqp=CAU)
 
-## Working for modems with this WebUI [micro_httpd](https://github.com/AlienWolfX/KingType-analysis/blob/main/img/micro.png?raw=true), [boa](google.com)
+## Working for modems with this WebUI [micro_httpd](https://github.com/AlienWolfX/KingType-analysis/blob/main/img/micro.png?raw=true), [boa](#)
 ### Default user login: 
 ```
 username: admin
