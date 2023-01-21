@@ -19,7 +19,7 @@ password: kingT#92Su
 username: super
 password: root
 ```
-## Note: Telnet credentials with linux shell is only working for modems with LuCi WebUI
+#### Note: Telnet shell for micro_httpd and boa are only in restricted mode
 ### Telnet(LuCI):
 ```
 username: root
