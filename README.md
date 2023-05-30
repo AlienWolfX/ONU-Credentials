@@ -1,7 +1,5 @@
-# KingType FTTH
+## FTTH ANALYSIS
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawdJZAuoGAkPTX1GkFDYHiKeMA1zrK-7KDw&usqp=CAU)
-
-## Working for modems with this WebUI [micro_httpd](https://github.com/AlienWolfX/KingType-analysis/blob/main/img/micro.png?raw=true), [boa](#)
 ### Default user login: 
 ```
 username: admin
@@ -19,7 +17,19 @@ password: kingT#92Su
 username: super
 password: root
 ```
-#### Note: Telnet shell for micro_httpd and boa are only in restricted mode
+## UniWay/Realtek Routers 
+### Super user login:
+```
+username: admin
+password: stdONUioi
+```
+## Unknow Router
+### Super user login:
+```
+username: adminpldt
+password: adminpldt
+```
+#### Note: Telnet shell for micro_httpd and boa are only in user level
 ### Telnet(LuCI):
 ```
 username: root
