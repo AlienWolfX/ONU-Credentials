@@ -23,7 +23,7 @@ password: root
 username: admin
 password: stdONUioi
 ```
-## Unknow Router
+## Unknown Router
 ### Super user login:
 ```
 username: adminpldt
