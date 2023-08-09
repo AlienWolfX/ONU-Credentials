@@ -23,6 +23,12 @@ password: root
 username: admin
 password: stdONUioi
 ```
+## PT939G
+### Super user login:
+```
+username: CMCCAdmin
+password: aDm8H%MdA
+```
 ## Unknown Router
 ### Super user login:
 ```
@@ -39,6 +45,11 @@ password: rootktcatv
 ```
 username: root
 password: rootktcatv@Onu_1992-Admin
+```
+### Telnet(PT939G)
+```
+username: yhtcAdmin
+password: Cm1@YHfw
 ```
 ## UART Communication
 Baudrate: 115200
