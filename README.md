@@ -1,11 +1,14 @@
 ## FTTH ANALYSIS
 ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawdJZAuoGAkPTX1GkFDYHiKeMA1zrK-7KDw&usqp=CAU)
-### Default user login: 
+### Normal user login: 
 ```
 username: admin
 password: admin
+-----------------
+username: user
+password: 123456
 ```
-## Boa and micro_httpd WebUI
+## KingType ONU
 ### Super user login:
 ```
 username: super
@@ -34,6 +37,12 @@ password: aDm8H%MdA
 ```
 username: adminpldt
 password: adminpldt
+```
+## GP1704-2FC-S (BDCOM)
+### Super user login:
+```
+username: admin
+password: super&123
 ```
 #### Note: Telnet shell for micro_httpd and boa are only in user level
 ### Telnet(LuCI):
