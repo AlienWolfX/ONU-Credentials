@@ -45,6 +45,7 @@ username: admin
 password: super&123
 ```
 #### Note: Telnet shell for micro_httpd and boa are restrited you need to run sh after logging in with `root_1Qaz992$rFv` as password
+#### Port is: `51992`
 ### Telnet(LuCI):
 ```
 username: root
