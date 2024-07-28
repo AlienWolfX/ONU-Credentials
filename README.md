@@ -44,7 +44,7 @@ password: adminpldt
 username: admin
 password: super&123
 ```
-#### Note: Telnet shell for micro_httpd and boa are only in user level
+#### Note: Telnet shell for micro_httpd and boa are restrited you need to run sh after logging in with `root_1Qaz992$rFv` as password
 ### Telnet(LuCI):
 ```
 username: root
@@ -52,7 +52,7 @@ password: rootktcatv
 ```
 ### Telnet(micro_httpd/boa):
 ```
-username: root
+username: admin
 password: rootktcatv@Onu_1992-Admin
 ```
 ### Telnet(PT939G)
