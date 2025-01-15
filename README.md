@@ -72,7 +72,7 @@ password: rootktcatv
 username: admin
 password: rootktcatv@Onu_1992-Admin
 ```
-##### To gain root `sh` when prompted for password enter `root_1Qaz992$rFv`
+##### To gain root type `sh` when prompted for password enter `root_1Qaz992$rFv`
 
 ### Telnet(PT939G)
 ```
